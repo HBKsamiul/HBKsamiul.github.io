@@ -18,6 +18,9 @@ body{
 .nav-container{
     background-color:#4B0082 ;
     font-weight: large;
+    position: sticky;
+    top: 0;
+    z-index: 2;
  }
 
 .nav-container:hover{
@@ -42,6 +45,8 @@ body{
 }
 .card-body{
     background-color: black;
+  
+    
    
 }
 .project-container{
@@ -51,4 +56,48 @@ body{
 .imga{
     height: 300px;
     width: 300px;
+}
+.mybut{
+    
+    background-size: auto;
+    background-color: #9932CC;
+    color: white;
+    
+}
+.mybut:hover{
+    background-color: black;
+    color: #9932CC;
+    font-weight: bold;
+}
+.portfolio-container{
+  background-color: #9932CC;
+
+}
+.porti{
+    color: #9932CC;
+    font-weight: bolder;
+}
+.porti2{
+    background-color: #9932CC;
+    color:black;
+    font-weight: bolder;
+}
+.contact-container{
+    background-color: black;
+}
+.ridi{
+    color: black;
+    font-weight: bolder;
+}
+.boxi{
+    background-color: black;
+    color: #9932CC;
+}
+.inner-form{
+    background-color:#9932CC  ;
+    color:black;
+}
+.butti{
+    background-color: #9932CC;
+    color: black;
 }
