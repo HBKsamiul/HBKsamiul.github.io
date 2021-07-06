@@ -1,0 +1,54 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.banner-container{
+    background-color: #9932CC;
+}
+.banner-coloumn{
+    background-color:#4B0082;
+}
+#diva{
+    text-align: center;
+    background-color: black;
+    color: #9932CC;
+    font-size: larger;
+    font-weight: bolder;
+}
+.nav-container{
+    background-color:#4B0082 ;
+    font-weight: large;
+ }
+
+.nav-container:hover{
+    font-weight: bold;
+    color: chartreuse;
+ }
+.About-container{
+    background-color:black ;
+
+}
+.qualification-container{
+
+    background-color: #9932CC;
+
+}
+.circle{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-color:chartreuse  ;
+}
+.card-body{
+    background-color: black;
+   
+}
+.project-container{
+    background-color: black;
+    color: chartreuse;
+}
+.imga{
+    height: 300px;
+    width: 300px;
+}
